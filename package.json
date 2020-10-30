@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ytdl-core": "^0.29.7",
-    "ytpl": "^0.1.16",
+    "ytpl": "^0.3.0",
     "ytsearcher": "^1.2.2"
   },
   "repository": {
